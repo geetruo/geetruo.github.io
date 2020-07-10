@@ -1,0 +1,68 @@
+* {
+    background-color: black;
+}
+.header {
+    margin:30px 5vw;
+    display: flex;
+}
+.info {
+    width: 40vw;   
+}
+.index { 
+    width: 40vw;
+}
+.content {
+    display: flex;
+    margin: 30px 3.5vw;
+}
+.name {
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.email {
+    font-size: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 3px;
+}
+.info {
+    margin-top: 10px;
+    font-size: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+}
+.index {
+    font-size: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.column {
+    width: 30vw;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 87%;
+    margin-bottom:5px
+}
+
+.box{
+    margin-bottom:20px
+}
+.icon{
+    width: 10%;
+    max-width:80px;
+}
+.title{
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    margin-bottom: 5px;
+    text-decoration-thickness: 1.3px;
+    line-height: 23px;
+}
