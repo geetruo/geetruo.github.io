@@ -8,9 +8,6 @@
 .info {
     width: 40vw;   
 }
-.index { 
-    width: 40vw;
-}
 .content {
     display: flex;
     margin: 30px 3.5vw;
@@ -34,6 +31,7 @@
     margin-top: 5px;
 }
 .index {
+    width: 40vw;
     font-size: 15px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -64,7 +62,6 @@ img {
     text-underline-offset: 3px;
     margin-bottom: 5px;
     text-decoration-thickness: 1.3px;
-    line-height: 23px;
 }
 
 
