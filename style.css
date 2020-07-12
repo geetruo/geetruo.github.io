@@ -14,7 +14,7 @@
 }
 .content {
     display: flex;
-    margin: 30px 3.5vw;
+    margin: 20px;
 }
 .name {
     font-size: 20px;
@@ -71,4 +71,10 @@ a:link {
 
 a:visited {
     color: white;
+}
+
+
+.detail{
+    display: flex;
+    margin: 20px;
 }
